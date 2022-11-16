@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mUmarBaloch
 - ✨ I'm a Flutter Developer
-- 👀 I’m interested in Mobile App development and Web Api's
+- 👀 I’m interested in FullStack Mobile App development and Web Api's
 - 🌱 I’m currently learning DBMS
 - 💞️ I’m looking to collaborate on App Startups
 
