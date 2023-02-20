@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mUmarBaloch
 - ✨ I'm a Flutter Developer
-- 👀 I’m interested Mobile App development
-- 🌱 I’m currently learning DBMS
+- 👀 I’m interested in Freelance projects
 - 💞️ I’m looking to collaborate on App Startups
 
 <!---
