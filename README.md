@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mUmarBaloch
 - ✨ I'm a Flutter Developer
+- ✨ FlutterFLow, Figma
 - 👀 I’m interested in Freelance projects
-- 💞️ I’m looking to collaborate on App Startups
+- 💞️ I’m looking to collaborate with Fintech startups
 
 <!---
 mUmarBaloch/mUmarBaloch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
